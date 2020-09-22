@@ -16,11 +16,11 @@ Attributes  provide more info about the contents of an element.
 Right click --> "View Page Source"  
 
 **6. List five different HTML elements and what they are used for. For example, <p></p> is a paragraph element, and it is used to represent a paragraph of text.**  
-* <b></b> is an inline element that makes text inside tags bold
-* <i></i> is an inline element that makes text inside tags italic
-* <h1></h1> is used for main headings (important for SEO)
-* <br> line break
-* <hr /> horizontal line  
+* `<b></b>` is an inline element that makes text inside tags bold
+* `<i></i>` is an inline element that makes text inside tags italic
+* `<h1></h1>` is used for main headings (important for SEO)
+* `<br>` line break
+* `<hr />` horizontal line  
 
 **7. What are empty elements?**  
 Elements that don't have any words between the opening and closing tag.  
@@ -29,6 +29,6 @@ Elements that don't have any words between the opening and closing tag.
 Elements that don't affect the structure of your web page, but they do add info to them (emphasis, blockquotes, etc.).  
 
 **9. What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.**  
-<header> <nav> <article>  
+`<header> <nav> <article>`
 
 **CodePen Link:** https://codepen.io/tashia-davis/pen/ExKGgqe
